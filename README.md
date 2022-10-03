@@ -12,7 +12,9 @@
 
 **Is to acquire skills in writing smart contracts in the Solidity programming language and deploying them in the Ethereum test network.
 
-**Here, the bank comtract aims at : **Adding New Payment to the bank, Collecting the payment information and finally getting data of all payments made.
+**Here, the bank comtract aims at :
+
+**Adding New Payment to the bank, Collecting the payment information and finally getting data of all payments made.
 
 **GETTING STARTED:
 
