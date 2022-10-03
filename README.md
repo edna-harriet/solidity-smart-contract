@@ -18,15 +18,15 @@
 
 **GETTING STARTED:
 
-**To test and run this project, you are required to install metamask wallet as a chrome browser extension and secure Eth token to it using Ropsten testnet.
+** 1.To test and run this project, you are required to install metamask wallet as a chrome browser extension and secure Eth token to it using Ropsten testnet.
 
-**"copy raw content" of the BankTransaction.sol file in the master branch of the repository.
+** 2."copy raw content" of the BankTransaction.sol file in the master branch of the repository.
 
-**Paste the content in REMIX IDE and save as a file.
+** 3.Paste the content in REMIX IDE and save as a file.
 
-**Compile the source code to fix errors if available.
+** 4.Compile the source code to fix errors if available.
 
-**Deploy to the network.
+** 5.Deploy to the network.
 **
 **BUILT USING: Solidity programming language. ** Remix IDE.
 
